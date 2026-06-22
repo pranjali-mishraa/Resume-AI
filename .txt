@@ -1,0 +1,3 @@
+EwPVBqdZA1EiuLJH
+
+mongodb+srv://Pranjali:EwPVBqdZA1EiuLJH@resume-ai.3jdwanc.mongodb.net/resume-master
